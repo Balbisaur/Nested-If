@@ -33,6 +33,6 @@ if venue == 'large hall':
         print('no party today :c')
 
 
-vegetarian = 'no'
+vegetarian = 'yes'
 recommend = 'veggie delight caterers'
 print('bring me the veggies!' if vegetarian == 'yes' and recommend else 'gourmet meal caterers')

@@ -1,9 +1,9 @@
 place = "forest"
 
 if place == "forest":
-    print('climb a tree!')
+   pass
 elif place == ('cave'):
-    print('you found hidden treasure')
+    pass
 else:
     print('go home and watch Tv :c')
 

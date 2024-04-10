@@ -21,7 +21,7 @@ if venue == 'large hall':
     else:
         print('no party today :c')
 
-        venue = 'large hall'
+venue = 'large hall'
 attendees = 55
 
 if venue == 'large hall':

@@ -4,7 +4,7 @@ if attendees == '100':
 else:
     print('conference room')
 
-    attendees = '87'
+attendees = '87'
 if attendees < '100':
     print('large hall')
 else:
